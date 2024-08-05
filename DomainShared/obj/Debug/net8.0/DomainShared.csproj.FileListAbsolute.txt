@@ -1,0 +1,11 @@
+C:\Users\Nusret\source\Sampas\Store\DomainShared\bin\Debug\net8.0\DomainShared.deps.json
+C:\Users\Nusret\source\Sampas\Store\DomainShared\bin\Debug\net8.0\DomainShared.dll
+C:\Users\Nusret\source\Sampas\Store\DomainShared\bin\Debug\net8.0\DomainShared.pdb
+C:\Users\Nusret\source\Sampas\Store\DomainShared\obj\Debug\net8.0\DomainShared.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Nusret\source\Sampas\Store\DomainShared\obj\Debug\net8.0\DomainShared.AssemblyInfoInputs.cache
+C:\Users\Nusret\source\Sampas\Store\DomainShared\obj\Debug\net8.0\DomainShared.AssemblyInfo.cs
+C:\Users\Nusret\source\Sampas\Store\DomainShared\obj\Debug\net8.0\DomainShared.csproj.CoreCompileInputs.cache
+C:\Users\Nusret\source\Sampas\Store\DomainShared\obj\Debug\net8.0\DomainShared.dll
+C:\Users\Nusret\source\Sampas\Store\DomainShared\obj\Debug\net8.0\refint\DomainShared.dll
+C:\Users\Nusret\source\Sampas\Store\DomainShared\obj\Debug\net8.0\DomainShared.pdb
+C:\Users\Nusret\source\Sampas\Store\DomainShared\obj\Debug\net8.0\ref\DomainShared.dll

@@ -1,0 +1,321 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Nusret\\source\\Sampas\\Store\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{76E1A4A2-1D1D-4E95-9F5E-2184C1F020A7}|Core\\Core.csproj|C:\\Users\\Nusret\\source\\Sampas\\Store\\core\\baseservices\\services\\basecrudappservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{76E1A4A2-1D1D-4E95-9F5E-2184C1F020A7}|Core\\Core.csproj|solutionrelative:core\\baseservices\\services\\basecrudappservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{76E1A4A2-1D1D-4E95-9F5E-2184C1F020A7}|Core\\Core.csproj|C:\\Users\\Nusret\\source\\Sampas\\Store\\core\\repositories\\repository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{76E1A4A2-1D1D-4E95-9F5E-2184C1F020A7}|Core\\Core.csproj|solutionrelative:core\\repositories\\repository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{76E1A4A2-1D1D-4E95-9F5E-2184C1F020A7}|Core\\Core.csproj|C:\\Users\\Nusret\\source\\Sampas\\Store\\core\\repositories\\irepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{76E1A4A2-1D1D-4E95-9F5E-2184C1F020A7}|Core\\Core.csproj|solutionrelative:core\\repositories\\irepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{76E1A4A2-1D1D-4E95-9F5E-2184C1F020A7}|Core\\Core.csproj|C:\\Users\\Nusret\\source\\Sampas\\Store\\core\\baseentities\\baseentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{76E1A4A2-1D1D-4E95-9F5E-2184C1F020A7}|Core\\Core.csproj|solutionrelative:core\\baseentities\\baseentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{67B17127-2F80-4D7C-A5BA-6FEB8E526069}|Domain\\Domain.csproj|C:\\Users\\Nusret\\source\\Sampas\\Store\\domain\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{67B17127-2F80-4D7C-A5BA-6FEB8E526069}|Domain\\Domain.csproj|solutionrelative:domain\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{116D9AF3-77E6-4CAF-B0D3-BA8B18203D6D}|Store\\Store.csproj|C:\\Users\\Nusret\\source\\Sampas\\Store\\store\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{116D9AF3-77E6-4CAF-B0D3-BA8B18203D6D}|Store\\Store.csproj|solutionrelative:store\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EFEBB6C6-5E05-491F-A30E-92A7A57974D0}|Application\\Application.csproj|c:\\users\\nusret\\source\\sampas\\store\\application\\helpers\\servicecollector.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EFEBB6C6-5E05-491F-A30E-92A7A57974D0}|Application\\Application.csproj|solutionrelative:application\\helpers\\servicecollector.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{116D9AF3-77E6-4CAF-B0D3-BA8B18203D6D}|Store\\Store.csproj|C:\\Users\\Nusret\\source\\Sampas\\Store\\store\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{116D9AF3-77E6-4CAF-B0D3-BA8B18203D6D}|Store\\Store.csproj|solutionrelative:store\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EFEBB6C6-5E05-491F-A30E-92A7A57974D0}|Application\\Application.csproj|C:\\Users\\Nusret\\source\\Sampas\\Store\\application\\users\\userservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EFEBB6C6-5E05-491F-A30E-92A7A57974D0}|Application\\Application.csproj|solutionrelative:application\\users\\userservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{99DEF463-D986-42A8-8F29-D1BA50F077C2}|ApplicationShared\\ApplicationShared.csproj|C:\\Users\\Nusret\\source\\Sampas\\Store\\applicationshared\\applicationshared.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{99DEF463-D986-42A8-8F29-D1BA50F077C2}|ApplicationShared\\ApplicationShared.csproj|solutionrelative:applicationshared\\applicationshared.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{67B17127-2F80-4D7C-A5BA-6FEB8E526069}|Domain\\Domain.csproj|C:\\Users\\Nusret\\source\\Sampas\\Store\\domain\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{67B17127-2F80-4D7C-A5BA-6FEB8E526069}|Domain\\Domain.csproj|solutionrelative:domain\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{76E1A4A2-1D1D-4E95-9F5E-2184C1F020A7}|Core\\Core.csproj|C:\\Users\\Nusret\\source\\Sampas\\Store\\core\\basedtos\\basedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{76E1A4A2-1D1D-4E95-9F5E-2184C1F020A7}|Core\\Core.csproj|solutionrelative:core\\basedtos\\basedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{76E1A4A2-1D1D-4E95-9F5E-2184C1F020A7}|Core\\Core.csproj|C:\\Users\\Nusret\\source\\Sampas\\Store\\core\\basedtos\\ibasedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{76E1A4A2-1D1D-4E95-9F5E-2184C1F020A7}|Core\\Core.csproj|solutionrelative:core\\basedtos\\ibasedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{76E1A4A2-1D1D-4E95-9F5E-2184C1F020A7}|Core\\Core.csproj|C:\\Users\\Nusret\\source\\Sampas\\Store\\core\\baseentities\\ibaseentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{76E1A4A2-1D1D-4E95-9F5E-2184C1F020A7}|Core\\Core.csproj|solutionrelative:core\\baseentities\\ibaseentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{76E1A4A2-1D1D-4E95-9F5E-2184C1F020A7}|Core\\Core.csproj|C:\\Users\\Nusret\\source\\Sampas\\Store\\core\\baseentities\\ibasedateoperationentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{76E1A4A2-1D1D-4E95-9F5E-2184C1F020A7}|Core\\Core.csproj|solutionrelative:core\\baseentities\\ibasedateoperationentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{76E1A4A2-1D1D-4E95-9F5E-2184C1F020A7}|Core\\Core.csproj|C:\\Users\\Nusret\\source\\Sampas\\Store\\core\\baseentities\\ibasecontroloperationentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{76E1A4A2-1D1D-4E95-9F5E-2184C1F020A7}|Core\\Core.csproj|solutionrelative:core\\baseentities\\ibasecontroloperationentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{67B17127-2F80-4D7C-A5BA-6FEB8E526069}|Domain\\Domain.csproj|C:\\Users\\Nusret\\source\\Sampas\\Store\\domain\\domain.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{67B17127-2F80-4D7C-A5BA-6FEB8E526069}|Domain\\Domain.csproj|solutionrelative:domain\\domain.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 233,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:130:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:131:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "BaseCrudAppService.cs",
+              "DocumentMoniker": "C:\\Users\\Nusret\\source\\Sampas\\Store\\Core\\BaseServices\\Services\\BaseCrudAppService.cs",
+              "RelativeDocumentMoniker": "Core\\BaseServices\\Services\\BaseCrudAppService.cs",
+              "ToolTip": "C:\\Users\\Nusret\\source\\Sampas\\Store\\Core\\BaseServices\\Services\\BaseCrudAppService.cs",
+              "RelativeToolTip": "Core\\BaseServices\\Services\\BaseCrudAppService.cs",
+              "ViewState": "AQIAABcAAAAAAAAAAAAAwCMAAAAwAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-05T08:47:37.553Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "User.cs",
+              "DocumentMoniker": "C:\\Users\\Nusret\\source\\Sampas\\Store\\Domain\\User.cs",
+              "RelativeDocumentMoniker": "Domain\\User.cs",
+              "ToolTip": "C:\\Users\\Nusret\\source\\Sampas\\Store\\Domain\\User.cs",
+              "RelativeToolTip": "Domain\\User.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAAzAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-05T06:40:35.669Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Category.cs",
+              "DocumentMoniker": "C:\\Users\\Nusret\\source\\Sampas\\Store\\Domain\\Category.cs",
+              "RelativeDocumentMoniker": "Domain\\Category.cs",
+              "ToolTip": "C:\\Users\\Nusret\\source\\Sampas\\Store\\Domain\\Category.cs",
+              "RelativeToolTip": "Domain\\Category.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAABCAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-05T06:41:51.946Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Nusret\\source\\Sampas\\Store\\Store\\Program.cs",
+              "RelativeDocumentMoniker": "Store\\Program.cs",
+              "ToolTip": "C:\\Users\\Nusret\\source\\Sampas\\Store\\Store\\Program.cs",
+              "RelativeToolTip": "Store\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAbAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-05T10:51:56.135Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "BaseEntity.cs",
+              "DocumentMoniker": "C:\\Users\\Nusret\\source\\Sampas\\Store\\Core\\BaseEntities\\BaseEntity.cs",
+              "RelativeDocumentMoniker": "Core\\BaseEntities\\BaseEntity.cs",
+              "ToolTip": "C:\\Users\\Nusret\\source\\Sampas\\Store\\Core\\BaseEntities\\BaseEntity.cs",
+              "RelativeToolTip": "Core\\BaseEntities\\BaseEntity.cs",
+              "ViewState": "AQIAAAEAAAAAAAAAAAAhwBEAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-05T06:56:18.076Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Repository.cs",
+              "DocumentMoniker": "C:\\Users\\Nusret\\source\\Sampas\\Store\\Core\\Repositories\\Repository.cs",
+              "RelativeDocumentMoniker": "Core\\Repositories\\Repository.cs",
+              "ToolTip": "C:\\Users\\Nusret\\source\\Sampas\\Store\\Core\\Repositories\\Repository.cs",
+              "RelativeToolTip": "Core\\Repositories\\Repository.cs",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAqwCEAAAAgAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-05T07:02:07.096Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "IRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Nusret\\source\\Sampas\\Store\\Core\\Repositories\\IRepository.cs",
+              "RelativeDocumentMoniker": "Core\\Repositories\\IRepository.cs",
+              "ToolTip": "C:\\Users\\Nusret\\source\\Sampas\\Store\\Core\\Repositories\\IRepository.cs",
+              "RelativeToolTip": "Core\\Repositories\\IRepository.cs",
+              "ViewState": "AQIAAC8AAAAAAAAAAAAkwEEAAAAQAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-05T07:00:28.872Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "UserService.cs",
+              "DocumentMoniker": "C:\\Users\\Nusret\\source\\Sampas\\Store\\Application\\Users\\UserService.cs",
+              "RelativeDocumentMoniker": "Application\\Users\\UserService.cs",
+              "ToolTip": "C:\\Users\\Nusret\\source\\Sampas\\Store\\Application\\Users\\UserService.cs",
+              "RelativeToolTip": "Application\\Users\\UserService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAuwAgAAAAmAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-05T08:58:33.017Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "ApplicationShared",
+              "DocumentMoniker": "C:\\Users\\Nusret\\source\\Sampas\\Store\\ApplicationShared\\ApplicationShared.csproj",
+              "RelativeDocumentMoniker": "ApplicationShared\\ApplicationShared.csproj",
+              "ToolTip": "C:\\Users\\Nusret\\source\\Sampas\\Store\\ApplicationShared\\ApplicationShared.csproj",
+              "RelativeToolTip": "ApplicationShared\\ApplicationShared.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-08-05T11:25:26.261Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "ServiceCollector.cs",
+              "DocumentMoniker": "C:\\Users\\Nusret\\source\\Sampas\\Store\\Application\\Helpers\\ServiceCollector.cs",
+              "RelativeDocumentMoniker": "Application\\Helpers\\ServiceCollector.cs",
+              "ToolTip": "C:\\Users\\Nusret\\source\\Sampas\\Store\\Application\\Helpers\\ServiceCollector.cs",
+              "RelativeToolTip": "Application\\Helpers\\ServiceCollector.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAuwBIAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-05T11:27:27.135Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "UserController.cs",
+              "DocumentMoniker": "C:\\Users\\Nusret\\source\\Sampas\\Store\\Store\\Controllers\\UserController.cs",
+              "RelativeDocumentMoniker": "Store\\Controllers\\UserController.cs",
+              "ToolTip": "C:\\Users\\Nusret\\source\\Sampas\\Store\\Store\\Controllers\\UserController.cs",
+              "RelativeToolTip": "Store\\Controllers\\UserController.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAA4AAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-05T10:20:19.743Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "BaseDto.cs",
+              "DocumentMoniker": "C:\\Users\\Nusret\\source\\Sampas\\Store\\Core\\BaseDtos\\BaseDto.cs",
+              "RelativeDocumentMoniker": "Core\\BaseDtos\\BaseDto.cs",
+              "ToolTip": "C:\\Users\\Nusret\\source\\Sampas\\Store\\Core\\BaseDtos\\BaseDto.cs",
+              "RelativeToolTip": "Core\\BaseDtos\\BaseDto.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-05T06:59:17.071Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "IBaseDto.cs",
+              "DocumentMoniker": "C:\\Users\\Nusret\\source\\Sampas\\Store\\Core\\BaseDtos\\IBaseDto.cs",
+              "RelativeDocumentMoniker": "Core\\BaseDtos\\IBaseDto.cs",
+              "ToolTip": "C:\\Users\\Nusret\\source\\Sampas\\Store\\Core\\BaseDtos\\IBaseDto.cs",
+              "RelativeToolTip": "Core\\BaseDtos\\IBaseDto.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAnAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-05T06:58:37.077Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "IBaseDateOperationEntity.cs",
+              "DocumentMoniker": "C:\\Users\\Nusret\\source\\Sampas\\Store\\Core\\BaseEntities\\IBaseDateOperationEntity.cs",
+              "RelativeDocumentMoniker": "Core\\BaseEntities\\IBaseDateOperationEntity.cs",
+              "ToolTip": "C:\\Users\\Nusret\\source\\Sampas\\Store\\Core\\BaseEntities\\IBaseDateOperationEntity.cs",
+              "RelativeToolTip": "Core\\BaseEntities\\IBaseDateOperationEntity.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAbAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-05T06:55:39.721Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "IBaseControlOperationEntity.cs",
+              "DocumentMoniker": "C:\\Users\\Nusret\\source\\Sampas\\Store\\Core\\BaseEntities\\IBaseControlOperationEntity.cs",
+              "RelativeDocumentMoniker": "Core\\BaseEntities\\IBaseControlOperationEntity.cs",
+              "ToolTip": "C:\\Users\\Nusret\\source\\Sampas\\Store\\Core\\BaseEntities\\IBaseControlOperationEntity.cs",
+              "RelativeToolTip": "Core\\BaseEntities\\IBaseControlOperationEntity.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-05T06:52:07.452Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "IBaseEntity.cs",
+              "DocumentMoniker": "C:\\Users\\Nusret\\source\\Sampas\\Store\\Core\\BaseEntities\\IBaseEntity.cs",
+              "RelativeDocumentMoniker": "Core\\BaseEntities\\IBaseEntity.cs",
+              "ToolTip": "C:\\Users\\Nusret\\source\\Sampas\\Store\\Core\\BaseEntities\\IBaseEntity.cs",
+              "RelativeToolTip": "Core\\BaseEntities\\IBaseEntity.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAuwAgAAAAgAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-05T06:45:02.552Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "Domain",
+              "DocumentMoniker": "C:\\Users\\Nusret\\source\\Sampas\\Store\\Domain\\Domain.csproj",
+              "RelativeDocumentMoniker": "Domain\\Domain.csproj",
+              "ToolTip": "C:\\Users\\Nusret\\source\\Sampas\\Store\\Domain\\Domain.csproj",
+              "RelativeToolTip": "Domain\\Domain.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-08-05T06:40:00.678Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
