@@ -13,6 +13,6 @@ namespace Core.BaseServices.Interfaces
         where TEntityDto : BaseDto
     {
         public IQueryable<TEntity> GetAll();
-        public Task<TEntity> Get(Guid guid);
+        public Task<TEntity> GetAsync(Guid guid);
     }
 }

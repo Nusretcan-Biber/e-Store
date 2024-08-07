@@ -51,12 +51,6 @@
       "frameworks": {
         "net8.0": {
           "targetAlias": "net8.0",
-          "dependencies": {
-            "AutoMapper": {
-              "target": "Package",
-              "version": "[13.0.1, )"
-            }
-          },
           "imports": [
             "net461",
             "net462",
@@ -103,6 +97,9 @@
             "projectReferences": {
               "C:\\Users\\Nusret\\source\\Sampas\\Store\\ApplicationShared\\ApplicationShared.csproj": {
                 "projectPath": "C:\\Users\\Nusret\\source\\Sampas\\Store\\ApplicationShared\\ApplicationShared.csproj"
+              },
+              "C:\\Users\\Nusret\\source\\Sampas\\Store\\Core\\Core.csproj": {
+                "projectPath": "C:\\Users\\Nusret\\source\\Sampas\\Store\\Core\\Core.csproj"
               },
               "C:\\Users\\Nusret\\source\\Sampas\\Store\\Data\\Data.csproj": {
                 "projectPath": "C:\\Users\\Nusret\\source\\Sampas\\Store\\Data\\Data.csproj"
@@ -185,6 +182,10 @@
         "net8.0": {
           "targetAlias": "net8.0",
           "dependencies": {
+            "AutoMapper": {
+              "target": "Package",
+              "version": "[13.0.1, )"
+            },
             "Microsoft.EntityFrameworkCore": {
               "target": "Package",
               "version": "[8.0.7, )"

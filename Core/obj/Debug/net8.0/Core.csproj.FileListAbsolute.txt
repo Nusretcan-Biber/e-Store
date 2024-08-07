@@ -6,6 +6,7 @@ C:\Users\Nusret\source\Sampas\Store\Core\obj\Debug\net8.0\Core.GeneratedMSBuildE
 C:\Users\Nusret\source\Sampas\Store\Core\obj\Debug\net8.0\Core.AssemblyInfoInputs.cache
 C:\Users\Nusret\source\Sampas\Store\Core\obj\Debug\net8.0\Core.AssemblyInfo.cs
 C:\Users\Nusret\source\Sampas\Store\Core\obj\Debug\net8.0\Core.csproj.CoreCompileInputs.cache
+C:\Users\Nusret\source\Sampas\Store\Core\obj\Debug\net8.0\Core.sourcelink.json
 C:\Users\Nusret\source\Sampas\Store\Core\obj\Debug\net8.0\Core.dll
 C:\Users\Nusret\source\Sampas\Store\Core\obj\Debug\net8.0\refint\Core.dll
 C:\Users\Nusret\source\Sampas\Store\Core\obj\Debug\net8.0\Core.pdb

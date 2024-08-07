@@ -10,6 +10,7 @@ C:\Users\Nusret\source\Sampas\Store\Domain\obj\Debug\net8.0\Domain.GeneratedMSBu
 C:\Users\Nusret\source\Sampas\Store\Domain\obj\Debug\net8.0\Domain.AssemblyInfoInputs.cache
 C:\Users\Nusret\source\Sampas\Store\Domain\obj\Debug\net8.0\Domain.AssemblyInfo.cs
 C:\Users\Nusret\source\Sampas\Store\Domain\obj\Debug\net8.0\Domain.csproj.CoreCompileInputs.cache
+C:\Users\Nusret\source\Sampas\Store\Domain\obj\Debug\net8.0\Domain.sourcelink.json
 C:\Users\Nusret\source\Sampas\Store\Domain\obj\Debug\net8.0\Domain.csproj.Up2Date
 C:\Users\Nusret\source\Sampas\Store\Domain\obj\Debug\net8.0\Domain.dll
 C:\Users\Nusret\source\Sampas\Store\Domain\obj\Debug\net8.0\refint\Domain.dll

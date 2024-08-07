@@ -1,9 +1,10 @@
 {
   "version": 2,
-  "dgSpecHash": "aw3RTyBK5zpe/WjUfQ/6Zq+A1vjHH3c3T7dPiwDi4/fY7uyeHCSpByNlj1GBXr2J+5/0cU9vHRLZ4eHNMs0RaA==",
+  "dgSpecHash": "vDGqBT3Ah37GHNbw0c0SUhOIaoU5SJ+MW66GEXJ487Uo7ZVbuhZTVC4yGSzRmr9HgOeDkPHyImtJc7otX+7L7Q==",
   "success": true,
   "projectFilePath": "C:\\Users\\Nusret\\source\\Sampas\\Store\\Data\\Data.csproj",
   "expectedPackageFiles": [
+    "C:\\Users\\Nusret\\.nuget\\packages\\automapper\\13.0.1\\automapper.13.0.1.nupkg.sha512",
     "C:\\Users\\Nusret\\.nuget\\packages\\humanizer.core\\2.14.1\\humanizer.core.2.14.1.nupkg.sha512",
     "C:\\Users\\Nusret\\.nuget\\packages\\microsoft.bcl.asyncinterfaces\\6.0.0\\microsoft.bcl.asyncinterfaces.6.0.0.nupkg.sha512",
     "C:\\Users\\Nusret\\.nuget\\packages\\microsoft.codeanalysis.analyzers\\3.3.3\\microsoft.codeanalysis.analyzers.3.3.3.nupkg.sha512",

@@ -303,7 +303,6 @@
         "type": "project",
         "framework": ".NETCoreApp,Version=v8.0",
         "dependencies": {
-          "AutoMapper": "13.0.1",
           "Core": "1.0.0",
           "Domain": "1.0.0"
         },
@@ -318,6 +317,7 @@
         "type": "project",
         "framework": ".NETCoreApp,Version=v8.0",
         "dependencies": {
+          "AutoMapper": "13.0.1",
           "Microsoft.EntityFrameworkCore": "8.0.7",
           "Newtonsoft.Json": "13.0.3"
         },
@@ -878,6 +878,7 @@
   "projectFileDependencyGroups": {
     "net8.0": [
       "ApplicationShared >= 1.0.0",
+      "Core >= 1.0.0",
       "Data >= 1.0.0"
     ]
   },
@@ -910,6 +911,9 @@
           "projectReferences": {
             "C:\\Users\\Nusret\\source\\Sampas\\Store\\ApplicationShared\\ApplicationShared.csproj": {
               "projectPath": "C:\\Users\\Nusret\\source\\Sampas\\Store\\ApplicationShared\\ApplicationShared.csproj"
+            },
+            "C:\\Users\\Nusret\\source\\Sampas\\Store\\Core\\Core.csproj": {
+              "projectPath": "C:\\Users\\Nusret\\source\\Sampas\\Store\\Core\\Core.csproj"
             },
             "C:\\Users\\Nusret\\source\\Sampas\\Store\\Data\\Data.csproj": {
               "projectPath": "C:\\Users\\Nusret\\source\\Sampas\\Store\\Data\\Data.csproj"

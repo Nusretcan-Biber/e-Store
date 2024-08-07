@@ -19,9 +19,13 @@ namespace ApplicationShared.Mapper
             CreateMap<TSource, TDestination>();
             var config = new MapperConfiguration(cfg => cfg.CreateMap<TSource, TDestination>());
             _mapper = config.CreateMapper();
+   
 
         }
         private IMapper _mapper;
         public IMapper Mapper { get { return _mapper; } set { _mapper = value; } }
     }
+
+   
+   
 }

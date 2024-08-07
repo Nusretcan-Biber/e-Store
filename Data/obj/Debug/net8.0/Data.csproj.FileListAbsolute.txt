@@ -13,6 +13,7 @@ C:\Users\Nusret\source\Sampas\Store\Data\obj\Debug\net8.0\Data.GeneratedMSBuildE
 C:\Users\Nusret\source\Sampas\Store\Data\obj\Debug\net8.0\Data.AssemblyInfoInputs.cache
 C:\Users\Nusret\source\Sampas\Store\Data\obj\Debug\net8.0\Data.AssemblyInfo.cs
 C:\Users\Nusret\source\Sampas\Store\Data\obj\Debug\net8.0\Data.csproj.CoreCompileInputs.cache
+C:\Users\Nusret\source\Sampas\Store\Data\obj\Debug\net8.0\Data.sourcelink.json
 C:\Users\Nusret\source\Sampas\Store\Data\obj\Debug\net8.0\Data.csproj.Up2Date
 C:\Users\Nusret\source\Sampas\Store\Data\obj\Debug\net8.0\Data.dll
 C:\Users\Nusret\source\Sampas\Store\Data\obj\Debug\net8.0\refint\Data.dll

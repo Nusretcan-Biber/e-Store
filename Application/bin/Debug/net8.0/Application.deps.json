@@ -9,6 +9,7 @@
       "Application/1.0.0": {
         "dependencies": {
           "ApplicationShared": "1.0.0",
+          "Core": "1.0.0",
           "Data": "1.0.0"
         },
         "runtime": {
@@ -196,7 +197,6 @@
       },
       "ApplicationShared/1.0.0": {
         "dependencies": {
-          "AutoMapper": "13.0.1",
           "Core": "1.0.0",
           "Domain": "1.0.0"
         },
@@ -206,6 +206,7 @@
       },
       "Core/1.0.0": {
         "dependencies": {
+          "AutoMapper": "13.0.1",
           "Microsoft.EntityFrameworkCore": "8.0.7",
           "Newtonsoft.Json": "13.0.3"
         },

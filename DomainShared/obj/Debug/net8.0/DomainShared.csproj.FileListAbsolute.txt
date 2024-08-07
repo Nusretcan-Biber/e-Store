@@ -5,6 +5,7 @@ C:\Users\Nusret\source\Sampas\Store\DomainShared\obj\Debug\net8.0\DomainShared.G
 C:\Users\Nusret\source\Sampas\Store\DomainShared\obj\Debug\net8.0\DomainShared.AssemblyInfoInputs.cache
 C:\Users\Nusret\source\Sampas\Store\DomainShared\obj\Debug\net8.0\DomainShared.AssemblyInfo.cs
 C:\Users\Nusret\source\Sampas\Store\DomainShared\obj\Debug\net8.0\DomainShared.csproj.CoreCompileInputs.cache
+C:\Users\Nusret\source\Sampas\Store\DomainShared\obj\Debug\net8.0\DomainShared.sourcelink.json
 C:\Users\Nusret\source\Sampas\Store\DomainShared\obj\Debug\net8.0\DomainShared.dll
 C:\Users\Nusret\source\Sampas\Store\DomainShared\obj\Debug\net8.0\refint\DomainShared.dll
 C:\Users\Nusret\source\Sampas\Store\DomainShared\obj\Debug\net8.0\DomainShared.pdb

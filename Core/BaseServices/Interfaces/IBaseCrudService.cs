@@ -15,8 +15,8 @@ namespace Core.BaseServices.Interfaces
         where TUpdateInput : class
     {
 
-        public Task<TEntity> InsertAsync(TCreateInput createInput);
-        public Task<TEntity> UpdateAsync(Guid guid, TUpdateInput updateInput);
-        public Task<bool> DeleteAsync(Guid guid);
+        public Task<int> InsertAsync(TEntity createInput);
+        public Task<int> UpdateAsync(TEntity tEntity);
+        public Task<int> DeleteAsync(Guid guid);
     }
 }
